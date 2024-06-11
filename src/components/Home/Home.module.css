@@ -1,0 +1,123 @@
+.body {
+  background-image: url("/src/assets/neutralBg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: var(--color-text);
+  height: 100vh;
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+}
+
+.title {
+  margin-bottom: 33px;
+  font-family: var(--font-roboto);
+  color: var(--color-text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.titleName {
+  color: #4e6961;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.description {
+  font-size: 35px !important;
+  font-family: var(--font-roboto);
+  margin-bottom: 52px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroImg:hover {
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+.socialMediaBtn {
+  margin: 0 8px;
+}
+
+.body {
+  padding: 50px 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 30px;
+}
+
+.titleName {
+  cursor: pointer;
+}
+
+.description {
+  margin-bottom: 50px;
+}
+
+.socialMediaBtn {
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+}
+
+.socialMediaBtn:hover {
+  background-color: #addac7;
+}
+
+.icon {
+  vertical-align: middle;
+}
+
+.bounce {
+  animation: bounceAnimation 0.1s infinite alternate;
+}
+
+.skill-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 5em;
+}
+
+@keyframes bounceAnimation {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 8px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
+}
