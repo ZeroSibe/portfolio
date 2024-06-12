@@ -3,7 +3,7 @@
     "id": 1,
     "name": "HTML",
     "icon": "fab fa-html5",
-    "imgIcon": "src/assets/html5.png"
+    "imgIcon": "/assets/html5.png"
   },
   {
     "id": 2,
