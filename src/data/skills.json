@@ -9,42 +9,42 @@
     "id": 2,
     "name": "CSS",
     "icon": "fab fa-css3-alt",
-    "imgIcon": "src/assets/skills/css.png"
+    "imgIcon": "/assets/css.png"
   },
   {
     "id": 3,
     "name": "JavaScript",
     "icon": "fab fa-js",
-    "imgIcon": "src/assets/skills/js.png"
+    "imgIcon": "/assets/js.png"
   },
   {
     "id": 4,
     "name": "React",
     "icon": "fab fa-react",
-    "imgIcon": "src/assets/skills/react.png"
+    "imgIcon": "/assets/react.png"
   },
   {
     "id": 5,
     "name": "Bootstrap",
     "icon": "fab fa-bootstrap",
-    "imgIcon": "src/assets/skills/bootstrap.png"
+    "imgIcon": "/assets/bootstrap.png"
   },
   {
     "id": 6,
     "name": "PostgreSQL",
     "icon": "fa-solid fa-wand-magic-sparkles",
-    "imgIcon": "src/assets/skills/psql.png"
+    "imgIcon": "/assets/psql.png"
   },
   {
     "id": 7,
     "name": "Jest",
     "icon": "fa-solid fa-code",
-    "imgIcon": "src/assets/skills/jest.png"
+    "imgIcon": "/assets/jest.png"
   },
   {
     "id": 8,
     "name": "Nodejs",
     "icon": "fa-brands fa-node-js",
-    "imgIcon": "src/assets/skills/node.png"
+    "imgIcon": "/assets/node.png"
   }
 ]
