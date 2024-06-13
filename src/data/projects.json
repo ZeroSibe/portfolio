@@ -1,7 +1,7 @@
 [
   {
     "title": "Deal Chasers",
-    "imageSrc": "src/assets/project/deal_chaser.png",
+    "imageSrc": "/assets/deal_chaser.png",
     "description": "Deal Chasers is a dynamic Mobile Application built with React Native and Expo, serving as a central hub for community members to share, discover, and exchange deals, discounts and offers specific to their local area.",
     "skills": [
       "React Native",
@@ -17,7 +17,7 @@
   },
   {
     "title": "NEWS API",
-    "imageSrc": "src/assets/project/news-api.png",
+    "imageSrc": "/assets/news-api.png",
     "description": "A RESTful news API offering various endpoints for retrieving news articles, exploring news topics, and performing searches. This API enables efficient access to news data and supports comprehensive search functionality to find specific articles based on keywords or topics.",
     "skills": ["PSQL", "Jest", "Supertest", "Node.js"],
     "deployedLink": "https://nc-news-izio.onrender.com/api/",
@@ -25,7 +25,7 @@
   },
   {
     "title": "NC NEWS",
-    "imageSrc": "src/assets/project/news-app.png",
+    "imageSrc": "/assets/news-app.png",
     "description": "A social news aggregation, and discussion platform for users to post, comment and rate news.",
     "skills": ["React", "NodeJs", "HTML", "Javascript", "CSS"],
     "deployedLink": "https://mr-mens-nc-news.netlify.app/",
