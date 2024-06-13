@@ -40,7 +40,6 @@ npm install
 node_modules
 ```
 
-
 ## Usage
 
 To use the React portfolio, do the following.
@@ -69,7 +68,7 @@ clear
 
 ## Deployment
 
-
+tamikazehare.netlify.app
 
 ## Repository
 
