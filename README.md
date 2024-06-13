@@ -68,7 +68,7 @@ clear
 
 ## Deployment
 
-tamikazehare.netlify.app
+https://tamikazehare.netlify.app
 
 ## Repository
 
